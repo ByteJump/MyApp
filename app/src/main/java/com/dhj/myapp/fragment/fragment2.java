@@ -18,6 +18,7 @@ public class fragment2 extends BaseFragment {
 
     @Override
     protected int getLayoutId() {
+
         return R.layout.fragment2;
     }
 
