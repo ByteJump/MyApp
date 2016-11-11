@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\libs\baidumapapi_util_v4_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5630c44b212b90ad64c2bc2a994cbf28d1b08a7">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_util_v4_1_1_b15f2d418ba89c46756e8579cebf34adaeaedb18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_1c2aaa6055c4454f743785d5773693339db4bec0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ab759a0214e7996234887d5e75b2656300a7f1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\libs\baidumapapi_search_v4_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b73dac26619f94061d28c54a7982ae8e0e783903">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_search_v4_1_1_e6b298020d536e2cce6e5c96e117811e4e2a06e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5fd8314a822ee18316523d6b5e0af63804e4b815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_16829118a1d179c73a2befce52ad0aa73a86fe0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\libs\baidumapapi_radar_v4_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec3b3b79fdcc8fe059676554e31053027043edf8">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_radar_v4_1_1_2ecb4101ff4f02cf63f5391da2788d49d183afbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_14da5ea13f35947e63b5bcde2804740b2268e7de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\libs\baidumapapi_map_v4_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="930064f0a91ff20ceb8dd4504b7dadec5aabea82">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_map_v4_1_1_ac76c034ed2e3d9c9486b03c9cf524c24cb8ece8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2f25a016de6126715969a60232c1808003b4d902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_931c98b0de59fecd6845726a431ce0737e9ba8af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2c1cf2561469e0ffd06ce1a2db1a4f94f24f2f59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_032a2036be919088863a2b2496a1c3742850ccb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fd8b43cd388af9f4a73412c138d8e272d7a551cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f4791f6eb7d2bc182ebd0efda7d2e3c3f63f92ee">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e5606c5a931a8290aa9df474fe35a20443916eaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_afeccf277f53d97a1f98bfcfea6280c55727318b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5d26b06b56fb81361e7825fae50af0b14895b1b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_8b2ad0b8b4ee8b0089faa40dc255f381e8b4d7b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5bca76586fe8e31321896980b0f8864da101f280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b56efe586baf136bdd1466ee846fc69d252236a">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e4be749ccb5cb0452e7a2019a2807019b12d77ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_40b75bf47441d5615477c66f95a4774b74a88169\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\libs\baidumapapi_base_v4_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00cd7d6a741c6a922c9cf7b0db52a357ebf12cdb">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_base_v4_1_1_cb50a03fb14bcada050c613eb60e46d5e4951bfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_38e186d696536be90c0da4012cfbdddd68ca6d78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fc3486a9ff105c6a10f6cfe55e992d1ae22119c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzh\Desktop\MyApp\app\libs\baidumapapi_cloud_v4_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93ef91d018051b8b5e001eb5e106b983fee8a549">
+        <dex dex="C:\Users\zzh\Desktop\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_cloud_v4_1_1_9a5b0977a03d11aaf4442469ee7d13abdc1728f5\classes.dex" />
+    </item>
+
+</items>
